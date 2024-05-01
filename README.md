@@ -5,6 +5,8 @@ This project presents a complete end-to-end Question Answering system powered by
 
 To ensure a user-friendly experience, a web interface was built using Streamlit. This interface allows users to interact with the system by posing questions and receiving relevant answers.
 
+![gemini-qa](https://github.com/notayush000/QA-using-LLM/assets/58353326/c12f80a0-26f2-4b3f-b4cc-07a5b9e7fce6)
+
 
 ## Features
 
