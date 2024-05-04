@@ -1,5 +1,5 @@
 
-# Question and Answer System based on Google Gemini LLM and Langchain
+# Question and Answer System based on Google's Gemini LLM and Langchain
 
 This project presents a complete end-to-end Question Answering system powered by Large Language Models. Used Google's Gemini language model (LLM) and Langchain. 
 
